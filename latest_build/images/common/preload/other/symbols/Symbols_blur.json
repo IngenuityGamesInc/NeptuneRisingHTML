@@ -1,0 +1,129 @@
+{"frames": {
+
+"h1_neptune_blur.png":
+{
+	"frame": {"x":2,"y":2,"w":212,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":200},
+	"sourceSize": {"w":212,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"h2_siren_blur.png":
+{
+	"frame": {"x":216,"y":2,"w":211,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":200},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"h3_seahores_blur.png":
+{
+	"frame": {"x":2,"y":204,"w":207,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":207,"h":200},
+	"sourceSize": {"w":212,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"h4_dolphin_blur.png":
+{
+	"frame": {"x":211,"y":204,"w":212,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":200},
+	"sourceSize": {"w":212,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"h5_treasurebox_blur.png":
+{
+	"frame": {"x":2,"y":406,"w":206,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":206,"h":200},
+	"sourceSize": {"w":212,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_9_blur.png":
+{
+	"frame": {"x":210,"y":406,"w":93,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":24,"w":93,"h":163},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_10_blur.png":
+{
+	"frame": {"x":305,"y":406,"w":155,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":19,"w":155,"h":162},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_A_blur.png":
+{
+	"frame": {"x":2,"y":608,"w":131,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":24,"w":131,"h":152},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_J_blur.png":
+{
+	"frame": {"x":135,"y":608,"w":50,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":19,"w":50,"h":162},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_K_blur.png":
+{
+	"frame": {"x":187,"y":608,"w":114,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":24,"w":114,"h":153},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Royal_Q_blur.png":
+{
+	"frame": {"x":303,"y":608,"w":157,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":21,"w":157,"h":159},
+	"sourceSize": {"w":211,"h":200},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"scatter_blur.png":
+{
+	"frame": {"x":2,"y":772,"w":212,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":212,"h":244},
+	"sourceSize": {"w":212,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wild_blur.png":
+{
+	"frame": {"x":216,"y":772,"w":211,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":250},
+	"sourceSize": {"w":211,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Symbols_blur.png",
+	"format": "RGBA8888",
+	"size": {"w":462,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:518083d7b4eb5aaa02d792e0763b7c22:d1280d18b92d8b6a65b3c6ddfb5767c0:ec25ebd6ae50211cb88b6ea0fa48e8be$"
+}
+}

@@ -1,0 +1,30 @@
+{"frames": {
+
+"Click_1.png":
+{
+	"frame": {"x":2,"y":2,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":57},
+	"sourceSize": {"w":57,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Click_2.png":
+{
+	"frame": {"x":61,"y":2,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":57},
+	"sourceSize": {"w":57,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Checkbox.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":61},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c57a03d6374bcba09f8eb780a892fb5:bfc3295f5cdf85c1cf7670a2534b4fd4:231369407fdb28e240bb447bcb9f82b8$"
+}
+}

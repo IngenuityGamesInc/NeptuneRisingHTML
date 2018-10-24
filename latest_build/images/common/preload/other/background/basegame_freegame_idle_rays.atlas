@@ -1,0 +1,13 @@
+
+basegame_freegame_idle_rays.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_idle_shine
+  rotate: false
+  xy: 2, 2
+  size: 413, 323
+  orig: 413, 323
+  offset: 0, 0
+  index: -1

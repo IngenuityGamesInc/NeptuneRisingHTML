@@ -1,0 +1,29 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Fu Lu Shou - PG0001\4_Delivery_Package\Common Package\Celebration Window\Text\Number\Big_Win_text-export" size="80" />
+	<common lineHeight="80" scaleW="499" scaleH="553" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Fu Lu Shou - PG0001\4_Delivery_Package\Common Package\Celebration Window\Text\Number\Big_Win_text-export.png" />
+	</pages>
+	<chars count="18">
+		<char id="48" x="0" y="277" width="128" height="139" xoffset="0" yoffset="-59" xadvance="129" /><!-- 0 -->
+		<char id="49" x="124" y="417" width="109" height="135" xoffset="0" yoffset="-57" xadvance="110" /><!-- 1 -->
+		<char id="50" x="257" y="277" width="123" height="137" xoffset="0" yoffset="-59" xadvance="124" /><!-- 2 -->
+		<char id="51" x="259" y="0" width="123" height="139" xoffset="0" yoffset="-59" xadvance="124" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="134" height="136" xoffset="0" yoffset="-57" xadvance="135" /><!-- 4 -->
+		<char id="53" x="257" y="415" width="122" height="137" xoffset="0" yoffset="-57" xadvance="123" /><!-- 5 -->
+		<char id="54" x="129" y="277" width="127" height="139" xoffset="0" yoffset="-59" xadvance="128" /><!-- 6 -->
+		<char id="55" x="0" y="417" width="123" height="135" xoffset="0" yoffset="-57" xadvance="124" /><!-- 7 -->
+		<char id="56" x="0" y="137" width="130" height="139" xoffset="0" yoffset="-59" xadvance="131" /><!-- 8 -->
+		<char id="57" x="131" y="137" width="127" height="139" xoffset="0" yoffset="-59" xadvance="128" /><!-- 9 -->
+		<char id="47" x="381" y="140" width="117" height="163" xoffset="0" yoffset="-61" xadvance="118" /><!-- / -->
+		<char id="92" x="381" y="304" width="117" height="163" xoffset="0" yoffset="-61" xadvance="118" /><!-- \ -->
+		<char id="58" x="383" y="0" width="59" height="108" xoffset="0" yoffset="-30" xadvance="60" /><!-- : -->
+		<char id="59" x="259" y="140" width="74" height="135" xoffset="0" yoffset="-30" xadvance="75" /><!-- ; -->
+		<char id="46" x="380" y="468" width="58" height="56" xoffset="0" yoffset="22" xadvance="59" /><!-- . -->
+		<char id="44" x="135" y="0" width="75" height="83" xoffset="0" yoffset="22" xadvance="76" /><!-- , -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

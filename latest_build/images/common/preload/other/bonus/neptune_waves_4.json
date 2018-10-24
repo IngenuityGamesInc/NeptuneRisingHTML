@@ -1,0 +1,102 @@
+{"frames": {
+
+"freegame_neptune_00048.png":
+{
+	"frame": {"x":2,"y":2,"w":1135,"h":704},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":42,"w":1135,"h":704},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00049.png":
+{
+	"frame": {"x":1139,"y":2,"w":1135,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":1135,"h":746},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00050.png":
+{
+	"frame": {"x":2276,"y":2,"w":1135,"h":734},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":1135,"h":734},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00051.png":
+{
+	"frame": {"x":2,"y":750,"w":1135,"h":743},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":1135,"h":743},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00052.png":
+{
+	"frame": {"x":1139,"y":750,"w":1135,"h":718},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":28,"w":1135,"h":718},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00053.png":
+{
+	"frame": {"x":2276,"y":750,"w":1135,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":1135,"h":746},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00054.png":
+{
+	"frame": {"x":2,"y":1498,"w":1135,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":1135,"h":746},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00055.png":
+{
+	"frame": {"x":1139,"y":1498,"w":1127,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":402,"w":1127,"h":344},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00056.png":
+{
+	"frame": {"x":2268,"y":1498,"w":832,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":558,"w":832,"h":188},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"freegame_neptune_00057.png":
+{
+	"frame": {"x":3102,"y":1498,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1140,"h":746},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "neptune_waves_4.png",
+	"format": "RGBA8888",
+	"size": {"w":3413,"h":2246},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:86bb668b30d7cb9dbd961b6853b5f946:5e181dedc09b5bc43e7360cd3e2a3fa2:f6efbd7c02d20065439160539006b344$"
+}
+}

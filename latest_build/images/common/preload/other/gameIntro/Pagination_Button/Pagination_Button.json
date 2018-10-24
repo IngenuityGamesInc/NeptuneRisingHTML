@@ -1,0 +1,30 @@
+{"frames": {
+
+"Pagination_1.png":
+{
+	"frame": {"x":2,"y":2,"w":28,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":29},
+	"sourceSize": {"w":28,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_2.png":
+{
+	"frame": {"x":2,"y":33,"w":28,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":29},
+	"sourceSize": {"w":28,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Pagination_Button.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0450d82f2b2c6586711b2a6be47547e8:02bd7002aba54889c2de11cc15017d28:9e8e137ed55ebac532072499ceed2e92$"
+}
+}

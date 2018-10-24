@@ -1,0 +1,53 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Neptune Rising- PG0003\1_Creative_Assets\Files for Desktop\bitmap font\Intro_outro_text_01-export" size="80" />
+	<common lineHeight="80" scaleW="1541" scaleH="1540" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Neptune Rising- PG0003\1_Creative_Assets\Files for Desktop\bitmap font\Intro_outro_text_01-export.png" />
+	</pages>
+	<chars count="42">
+		<char id="48" x="967" y="236" width="228" height="235" xoffset="0" yoffset="-155" xadvance="229" /><!-- 0 -->
+		<char id="49" x="1196" y="466" width="172" height="233" xoffset="0" yoffset="-155" xadvance="173" /><!-- 1 -->
+		<char id="50" x="734" y="270" width="232" height="233" xoffset="0" yoffset="-155" xadvance="233" /><!-- 2 -->
+		<char id="51" x="842" y="0" width="230" height="235" xoffset="0" yoffset="-155" xadvance="231" /><!-- 3 -->
+		<char id="52" x="492" y="941" width="241" height="233" xoffset="0" yoffset="-155" xadvance="242" /><!-- 4 -->
+		<char id="53" x="734" y="795" width="231" height="232" xoffset="0" yoffset="-152" xadvance="232" /><!-- 5 -->
+		<char id="54" x="965" y="1028" width="230" height="235" xoffset="0" yoffset="-155" xadvance="231" /><!-- 6 -->
+		<char id="55" x="265" y="469" width="226" height="230" xoffset="0" yoffset="-152" xadvance="227" /><!-- 7 -->
+		<char id="56" x="967" y="472" width="228" height="235" xoffset="0" yoffset="-155" xadvance="229" /><!-- 8 -->
+		<char id="57" x="965" y="1264" width="229" height="235" xoffset="0" yoffset="-155" xadvance="230" /><!-- 9 -->
+		<char id="58" x="248" y="941" width="109" height="180" xoffset="0" yoffset="-99" xadvance="110" /><!-- : -->
+		<char id="47" x="1369" y="466" width="130" height="236" xoffset="0" yoffset="-152" xadvance="131" /><!-- / -->
+		<char id="63" x="1196" y="232" width="213" height="233" xoffset="0" yoffset="-152" xadvance="214" /><!-- ? -->
+		<char id="33" x="1297" y="0" width="109" height="230" xoffset="0" yoffset="-149" xadvance="110" /><!-- ! -->
+		<char id="46" x="0" y="1440" width="109" height="99" xoffset="0" yoffset="-18" xadvance="110" /><!-- . -->
+		<char id="59" x="1414" y="997" width="109" height="230" xoffset="0" yoffset="-99" xadvance="110" /><!-- ; -->
+		<char id="124" x="1416" y="1228" width="81" height="280" xoffset="0" yoffset="-149" xadvance="82" /><!-- | -->
+		<char id="92" x="1410" y="0" width="130" height="236" xoffset="0" yoffset="-152" xadvance="131" /><!-- \ -->
+		<char id="44" x="358" y="941" width="109" height="149" xoffset="0" yoffset="-18" xadvance="110" /><!-- , -->
+		<char id="8353" x="492" y="1175" width="239" height="264" xoffset="0" yoffset="-168" xadvance="240" /><!-- ₡ -->
+		<char id="162" x="732" y="1175" width="232" height="270" xoffset="0" yoffset="-143" xadvance="233" /><!-- ¢ -->
+		<char id="8363" x="734" y="504" width="232" height="290" xoffset="0" yoffset="-161" xadvance="233" /><!-- ₫ -->
+		<char id="8364" x="287" y="233" width="243" height="235" xoffset="0" yoffset="-152" xadvance="244" /><!-- € -->
+		<char id="8371" x="0" y="1163" width="245" height="232" xoffset="0" yoffset="-152" xadvance="246" /><!-- ₳ -->
+		<char id="163" x="499" y="469" width="234" height="235" xoffset="0" yoffset="-152" xadvance="235" /><!-- £ -->
+		<char id="8355" x="1195" y="1264" width="220" height="233" xoffset="0" yoffset="-152" xadvance="221" /><!-- ₣ -->
+		<char id="3647" x="967" y="708" width="227" height="261" xoffset="0" yoffset="-164" xadvance="228" /><!-- ฿ -->
+		<char id="8370" x="1195" y="708" width="223" height="288" xoffset="0" yoffset="-177" xadvance="224" /><!-- ₲ -->
+		<char id="8365" x="0" y="466" width="264" height="233" xoffset="0" yoffset="-152" xadvance="265" /><!-- ₭ -->
+		<char id="321" x="246" y="1163" width="245" height="229" xoffset="0" yoffset="-149" xadvance="246" /><!-- Ł -->
+		<char id="8358" x="0" y="233" width="286" height="232" xoffset="0" yoffset="-152" xadvance="287" /><!-- ₦ -->
+		<char id="8369" x="0" y="930" width="247" height="232" xoffset="0" yoffset="-152" xadvance="248" /><!-- ₱ -->
+		<char id="36" x="607" y="0" width="234" height="269" xoffset="0" yoffset="-163" xadvance="235" /><!-- $ -->
+		<char id="8381" x="499" y="705" width="234" height="232" xoffset="0" yoffset="-152" xadvance="235" /><!-- ₽ -->
+		<char id="8366" x="369" y="0" width="237" height="232" xoffset="0" yoffset="-152" xadvance="238" /><!-- ₮ -->
+		<char id="8361" x="0" y="0" width="368" height="232" xoffset="0" yoffset="-152" xadvance="369" /><!-- ₩ -->
+		<char id="165" x="0" y="700" width="253" height="229" xoffset="0" yoffset="-149" xadvance="254" /><!-- ¥ -->
+		<char id="8372" x="254" y="700" width="244" height="240" xoffset="0" yoffset="-156" xadvance="245" /><!-- ₴ -->
+		<char id="8376" x="1196" y="997" width="217" height="233" xoffset="0" yoffset="-152" xadvance="218" /><!-- ₸ -->
+		<char id="112" x="1073" y="0" width="223" height="231" xoffset="0" yoffset="-101" xadvance="224" /><!-- p -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

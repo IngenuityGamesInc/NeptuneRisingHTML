@@ -1,0 +1,24 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Neptune Rising- PG0003\1_Creative_Assets\Files for Desktop\bitmap font\freespins_retrigger-export" size="80" />
+	<common lineHeight="80" scaleW="361" scaleH="476" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Neptune Rising- PG0003\1_Creative_Assets\Files for Desktop\bitmap font\freespins_retrigger-export.png" />
+	</pages>
+	<chars count="13">
+		<char id="43" x="119" y="361" width="111" height="94" xoffset="0" yoffset="-27" xadvance="112" /><!-- + -->
+		<char id="48" x="121" y="240" width="119" height="120" xoffset="0" yoffset="-40" xadvance="120" /><!-- 0 -->
+		<char id="49" x="127" y="0" width="91" height="118" xoffset="0" yoffset="-40" xadvance="92" /><!-- 1 -->
+		<char id="50" x="0" y="119" width="120" height="118" xoffset="0" yoffset="-40" xadvance="121" /><!-- 2 -->
+		<char id="51" x="241" y="121" width="119" height="120" xoffset="0" yoffset="-40" xadvance="120" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="126" height="118" xoffset="0" yoffset="-40" xadvance="127" /><!-- 4 -->
+		<char id="53" x="241" y="242" width="119" height="118" xoffset="0" yoffset="-38" xadvance="120" /><!-- 5 -->
+		<char id="54" x="241" y="0" width="119" height="120" xoffset="0" yoffset="-40" xadvance="120" /><!-- 6 -->
+		<char id="55" x="0" y="359" width="118" height="116" xoffset="0" yoffset="-38" xadvance="119" /><!-- 7 -->
+		<char id="56" x="121" y="119" width="119" height="120" xoffset="0" yoffset="-40" xadvance="120" /><!-- 8 -->
+		<char id="57" x="0" y="238" width="120" height="120" xoffset="0" yoffset="-40" xadvance="121" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

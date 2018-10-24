@@ -1,0 +1,13 @@
+
+basegame_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fofls_bg_shine
+  rotate: false
+  xy: 0, 0
+  size: 872, 794
+  orig: 872, 794
+  offset: 0, 0
+  index: -1

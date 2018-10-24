@@ -1,0 +1,93 @@
+{"frames": {
+
+"1Click.png":
+{
+	"frame": {"x":3,"y":3,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":50,"h":50},
+	"sourceSize": {"w":57,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2Click_over.png":
+{
+	"frame": {"x":56,"y":3,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":50,"h":50},
+	"sourceSize": {"w":57,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3Click.png":
+{
+	"frame": {"x":109,"y":3,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":50,"h":50},
+	"sourceSize": {"w":57,"h":57},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Normal_en.png":
+{
+	"frame": {"x":162,"y":3,"w":270,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":270,"h":79},
+	"sourceSize": {"w":285,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Over_en.png":
+{
+	"frame": {"x":3,"y":85,"w":270,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":270,"h":79},
+	"sourceSize": {"w":285,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Continue_Pressed_en.png":
+{
+	"frame": {"x":3,"y":167,"w":256,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":10,"w":256,"h":75},
+	"sourceSize": {"w":285,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"7Continue_Disable.png":
+{
+	"frame": {"x":3,"y":245,"w":270,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":270,"h":79},
+	"sourceSize": {"w":285,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_1.png":
+{
+	"frame": {"x":276,"y":245,"w":23,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":23,"h":24},
+	"sourceSize": {"w":28,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_2.png":
+{
+	"frame": {"x":302,"y":245,"w":23,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":23,"h":24},
+	"sourceSize": {"w":28,"h":29},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Continue_Btn_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":435,"h":327},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d4ca07da5ee62deb4d9e66e512defbd:e0a2d6e4deca775911be58f0fcad340f:770dbc25aaeaf5f81536b8e9879a4ca0$"
+}
+}

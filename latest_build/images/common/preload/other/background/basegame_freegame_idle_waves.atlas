@@ -1,0 +1,208 @@
+
+basegame_freegame_idle_waves.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_idle_cloud_middle
+  rotate: true
+  xy: 3200, 425
+  size: 181, 150
+  orig: 181, 150
+  offset: 0, 0
+  index: -1
+basegame_idle_cloud_right
+  rotate: false
+  xy: 3373, 683
+  size: 212, 209
+  orig: 212, 209
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00000
+  rotate: false
+  xy: 2, 3274
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00001
+  rotate: false
+  xy: 2, 2456
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00002
+  rotate: false
+  xy: 1068, 3274
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00003
+  rotate: false
+  xy: 2, 1638
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00004
+  rotate: false
+  xy: 1068, 2456
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00005
+  rotate: false
+  xy: 2134, 3274
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00006
+  rotate: false
+  xy: 2, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00007
+  rotate: false
+  xy: 1068, 1638
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00008
+  rotate: false
+  xy: 2134, 2456
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00009
+  rotate: true
+  xy: 3200, 3026
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00010
+  rotate: false
+  xy: 2, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00011
+  rotate: false
+  xy: 1068, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00012
+  rotate: false
+  xy: 2134, 1638
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00013
+  rotate: true
+  xy: 3200, 1960
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00014
+  rotate: false
+  xy: 1068, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00015
+  rotate: false
+  xy: 2134, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00016
+  rotate: true
+  xy: 3200, 894
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00017
+  rotate: false
+  xy: 2134, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+freegame_idle_lightning
+  rotate: false
+  xy: 3200, 608
+  size: 171, 284
+  orig: 171, 284
+  offset: 0, 0
+  index: -1
+
+basegame_freegame_idle_waves2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_idle_water_00018
+  rotate: false
+  xy: 2, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00019
+  rotate: false
+  xy: 2, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00020
+  rotate: false
+  xy: 1068, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00021
+  rotate: false
+  xy: 1068, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00022
+  rotate: false
+  xy: 2134, 820
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00023
+  rotate: false
+  xy: 2134, 2
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1
+basegame_idle_water_00024
+  rotate: true
+  xy: 3200, 572
+  size: 1064, 816
+  orig: 1064, 816
+  offset: 0, 0
+  index: -1

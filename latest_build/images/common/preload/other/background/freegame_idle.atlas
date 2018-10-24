@@ -1,0 +1,20 @@
+
+freegame_idle.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_bg_glow_sphere
+  rotate: false
+  xy: 872, 499
+  size: 666, 295
+  orig: 666, 295
+  offset: 0, 0
+  index: -1
+basegame_bg_shine_new_
+  rotate: false
+  xy: 0, 0
+  size: 872, 794
+  orig: 872, 794
+  offset: 0, 0
+  index: -1
